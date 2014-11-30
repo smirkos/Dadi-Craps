@@ -1,0 +1,16 @@
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.exe
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.pdb
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi_Craps.Form1.resources
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi_Craps.Properties.Resources.resources
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\bin\Debug\Dadi Craps.exe
+C:\Documents and Settings\Mirko\Desktop\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\bin\Debug\Dadi Craps.pdb
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.exe
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.pdb
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\ResolveAssemblyReference.cache
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi_Craps.Form1.resources
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi Craps.csproj.GenerateResource.Cache
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\bin\Debug\Dadi Craps.exe
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\bin\Debug\Dadi Craps.pdb
+F:\Programmi\Sistemi\5AI\Dadi Craps\Dadi Craps\obj\Debug\Dadi_Craps.Properties.Resources.resources

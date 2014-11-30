@@ -1,0 +1,8 @@
+bin\Debug\Dadi Craps.exe
+bin\Debug\Dadi Craps.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dadi_Craps.Form1.resources
+obj\Debug\Dadi_Craps.Properties.Resources.resources
+obj\Debug\Dadi Craps.csproj.GenerateResource.Cache
+obj\Debug\Dadi Craps.exe
+obj\Debug\Dadi Craps.pdb
